@@ -1,0 +1,15 @@
+{
+  "name": "design-tokenizer",
+  "version": "0.0.1",
+  "description": "Reads an original design tokens file and creates an output in diverse formats",
+  "main": "index.js",
+  "repository": "git@github.com:xpander001/design-tokenizer.git",
+  "author": "Ander Suarez Martinez <me@andersuarez.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
